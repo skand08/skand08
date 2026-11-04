@@ -1,6 +1,6 @@
 # Hi, I'm Skand Tripathi 👋
 
-### Applied AI/ML Engineer | Deep Learning | Geospatial AI | AI Systems
+### Applied AI/ML Engineer | Geospatial AI | AI Systems
 
 Electronics & Communication Engineering graduate with experience in software development, applied machine learning, and research-oriented engineering. I enjoy building intelligent systems that connect research ideas with practical applications.
 
@@ -27,7 +27,7 @@ Research Intern | Ahmedabad
 - Explored deep learning architectures including U-Net, Attention U-Net, and ResNet50.
 - Applied GIS and geospatial tools for satellite imagery analysis.
 
-### Software Engineering
+### Software Engineering, Logipod Logistics
 - Experience developing backend applications, APIs, database-driven systems, and AI-powered solutions.
 - Worked with Python, Flask, FastAPI, PostgreSQL, and cloud infrastructure.
 - Interested in taking ML models from experimentation to practical deployment.
